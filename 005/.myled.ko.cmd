@@ -1,0 +1,1 @@
+cmd_/home/koki/program/robosys/171101/myled.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/koki/program/robosys/171101/myled.ko /home/koki/program/robosys/171101/myled.o /home/koki/program/robosys/171101/myled.mod.o ;  true
